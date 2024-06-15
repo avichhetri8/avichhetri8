@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Abishek G.C.
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning, full time developer.
+I'm Abishek, a Full Stack Developer 👨‍💻 with professional experience since 2019 🚀
+
+❓ Ask me about anything related to .NET and related technologies.
+
+Skill Set
+ .Net Core C# React Bootstrap CSS3 HTML5 JavaScript TypeScript Tailwind CSS jQuery AWS Git Linux 
+
 
 
 <!---
